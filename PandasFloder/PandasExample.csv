@@ -1,0 +1,5 @@
+name,area,country_code2,country_code3
+data = ['Afghanistan', 652090, 'AF', 'AFG']
+data = ['SL',552090.0,SL, 'SL'
+data = ['IN',752090.0,IN, 'IN'
+data = ['UK',352090.0,UK, 'UK'

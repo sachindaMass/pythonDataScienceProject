@@ -1,0 +1,5 @@
+date,price,bedrooms,bathrooms,sqft_living,sqft_lot,floors,waterFront,view,condition,sqft_above,sqft_basement,yr_built,yr_renovated,street,city,statezip,country
+2014-05-02 00:00:00.0,313000.0,3.0,1.50,1340,7912,1.5,0,0,3,1340,0,1955,2005,1810 Dens-more Ave N,Shoreline,wa 98133,USA
+2014-05-02 00:00:00.0,2384000.0,5.0,2.50,3650,9050,2.0,0,4,5,3370,280,1921,0,709 w xxx,Seattle,wa 98119,USA
+2014-05-02 00:00:00.0,342200.0,3.0,2.00,1930,11947,1.0,0,0,4,1930,0,1966,0,809 w yyy,Seattle,wa 98042,USA
+2014-05-02 00:00:00.0,420000.0,3.0,2.25,1930,11947,1.0,0,0,4,1000,0,1963,0,909 w zzzz,Kent,wa 980008,USA
